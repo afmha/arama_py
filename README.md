@@ -1,5 +1,5 @@
 # arama_py
-Python ile hazırlanmış basit  arama motorlarında arama sistemi
+Python ile hazırlanmış arama motorlarında arama sistemi
 
 * Google
 * Bing
